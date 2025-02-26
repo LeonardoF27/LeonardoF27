@@ -5,7 +5,6 @@
 - 🎓 Systems analysis and development student
 - 📌 São Paulo, SP
 - 👨‍💻 Pronouns: him/Ele/Dele
-- ✉️ E-mail: leonhardocueto@gmail.com
 - 💻 Currently Front-End Developer
 
 
